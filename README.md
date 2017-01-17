@@ -20,4 +20,4 @@ Some projects say "advanced soldering skills required," and you might scoff at i
 The PCB is also [shared through OSH Park](https://oshpark.com/shared_projects/8xzPLFLW) and can be directly ordered from there. You'll get three boards for $8.75. However, I might have a few lying around, so if you are going to build one, PM me and I'll look to see if I have extras.
 
 ## Modifications
-If you want to further develop the project, [KiCad](http://kicad-pcb.org/) can be obtained for free, as in free speech.
+If you want to further develop the project, [KiCad](http://kicad-pcb.org/) can be obtained for free, as in free speech. The KiCad project files use custom schematic symbols and footprints which are in my [personal KiCad library](https://github.com/FriesW/KiCad-Library).
