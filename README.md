@@ -2,7 +2,9 @@
 A very small edition of the [Elektrosluch-3](https://github.com/LOM-instruments/Elektrosluch-3) by [LOM Instruments](https://lom.audio/).
 
 ## What it is
-The Elektrosluch is an open-source device for listening to electromagnetic radiation. Two inductors or coils of wire act as antennas to couple with stray magnetic fields. This particular model also functions as a general purpose audio amplifier. All functions are in stereo. Line output and external input are 3.5 mm (1/8") stereo jacks. The device is powered from a 9V battery.
+The Elektrosluch is an open-source device for listening to electromagnetic fields. Two inductors or coils of wire act as antennas to couple with stray magnetic fields. This particular model also functions as a general purpose audio amplifier. All functions are in stereo. Line output and external input are 3.5 mm (1/8") stereo jacks. The device is powered from a 9V battery.
+
+Jonas Gruska of LOM Instruments, the original creator, has made an album using a device with the same circuit. It can be [listened to on Bandcamp](http://zvukolom.bandcamp.com/album/sensing-electromagnetics) and is representative of what you can hear with this device.
 
 ## Reason for Creation
 1. I find it a fun game to make PCBs as small as possible.
