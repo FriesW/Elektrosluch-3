@@ -1,8 +1,8 @@
 | Part Number | Manufacturer | Type | Value | Quantity | Reference Designators |
 | ----------- | ------------ | ---- | ----- | -------- | --------------------- |
 | [EEE-HA1C221XP](http://www.mouser.com/ProductDetail/Panasonic/EEE-HA1C221XP/) | Panasonic | Electrolytic Capacitor | 220uF 16V | 2 | C1, C2 |
-| [593](http://www.mouser.com/ProductDetail/Keystone-Electronics/593/) | Keystone | Battery Snap | Male | 1 | a |
-| [594](http://www.mouser.com/ProductDetail/Keystone-Electronics/594/) | Keystone | Battery Snap | Female | 1 | a |
+| [593](http://www.mouser.com/ProductDetail/Keystone-Electronics/593/) | Keystone | Battery Snap | Male | 1 | "-" Symbol |
+| [594](http://www.mouser.com/ProductDetail/Keystone-Electronics/594/) | Keystone | Battery Snap | Female | 1 | "+" Symbol |
 | [FKP2O100471D00KSSD](http://www.mouser.com/ProductDetail/WIMA/FKP2O100471D00KSSD/) | WIMA | Film Capacitor | 47pF 1KV | 2 | C3, C8 |
 | [MKS2C042201K00KSSD](http://www.mouser.com/ProductDetail/WIMA/MKS2C042201K00KSSD/) | WIMA | Film Capacitor | 2.2uF 63V | 4 | C4, C5, C6, C7 |
 | [13R226C](http://www.mouser.com/ProductDetail/Murata-Power-Solutions/13R226C/) | Murata | Inductor | 22mH | 2 | L1, L2 |
