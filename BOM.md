@@ -12,4 +12,4 @@
 | [AS08J1003ET](http://www.mouser.com/ProductDetail/Ohmite/AS08J1003ET/) | Ohmite | Resistor | 100k | 2 | R1, R2 |
 | [AS08J1001ET](http://www.mouser.com/ProductDetail/Ohmite/AS08J1001ET/) | Ohmite | Resistor | 1k | 4 | R3, R4, R6, R8 |
 | [ERJ-6GEYJ394V](http://www.mouser.com/ProductDetail/Panasonic/ERJ-6GEYJ394V/) | Panasonic | Resistor | 390k | 2 | R5, R7 |
-| []() | | LED | | 2 | |
+| [LS R976-NR-1](http://www.mouser.com/ProductDetail/OSRAM/LS%20R976-NR-1) | OSRAM | LED | 633nm, red | 2 | D1, D2 |
